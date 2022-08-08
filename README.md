@@ -1,6 +1,6 @@
 # citiBike_Tableau
 
-Where do Citi Bikers ride? When do they ride? Which stations are most popular? What days of the week are most rides taken on?
+Where do Citi Bikers ride? When do they ride? Which stations are most popular? What days of the week are most rides taken on? What happened in March?
 
 I invite you to follow along as I discover the answers to these questions and more. This data is provided according to the Citi Bike Data Use Policy.
 
